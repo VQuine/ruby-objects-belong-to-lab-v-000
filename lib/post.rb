@@ -1,3 +1,3 @@
 class Post
   attr_accessor :title
-end #<---- class end 
+end #<---- class end
